@@ -31,11 +31,6 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer who loves building m
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 
-**API:**  
-![RESTful API](https://img.shields.io/badge/REST-FF6C37?style=flat&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
 **Databases:**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -48,18 +43,25 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer who loves building m
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Sessions](https://img.shields.io/badge/Sessions-blue?style=flat)
 
-**Tools & Other:**  
+**Tools & DevOps:**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI-CD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Other:**  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST-FF6C37?style=flat&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
 ### 🌱 Currently Exploring
 
-I have this wild urge to learn everything — From machine learning to UI/UX design and beyond — I’m all in. Curiosity is my favorite superpower. 🧠✨  
+I have this wild urge to learn everything — From machine learning to UI/UX design and beyond. I’m always experimenting with new tech — curiosity is my favorite superpower. 🧠✨  
 
 I am currently learning:  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -71,10 +73,4 @@ I am currently learning:
 ### 📫 Let's Connect!
 
 - 📧 Email: [hamzaimran.dev@gmail.com](mailto:hamzaimran.dev@gmail.com)  
-- 💼 LinkedIn: [Hamza-Imrann](https://www.linkedin.com/in/hamza-imran-dev)
-
----
-
-### ⚡ Fun Fact
-
-I’m always experimenting with new tech – curiosity keeps me coding.
+- 💼 LinkedIn: [Hamza Imran](https://www.linkedin.com/in/hamza-imran-dev)
