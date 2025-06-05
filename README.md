@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer who loves building m
 **Programming Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -25,6 +26,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer who loves building m
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks / Full-Stack Tools:**  
@@ -47,7 +49,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer who loves building m
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI-CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
@@ -59,14 +61,9 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer who loves building m
 
 ---
 
-### 🌱 Currently Exploring
+### 🌱 Exploring
 
-I have this wild urge to learn everything — From machine learning to UI/UX design and beyond. I’m always experimenting with new tech — curiosity is my favorite superpower. 🧠✨  
-
-I am currently learning:  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+I have this wild urge to learn everything — From machine learning to UI/UX design and beyond. I’m always experimenting with new tech — curiosity is my favorite superpower. 🧠✨
 
 ---
 
